@@ -19,7 +19,7 @@ Files should be run in order -- pulling data first, then prepping/cleaning the f
 * 02_AoU_pull_controls_60.ipynb
 
 ## Pulling other data types  
-* 02_AoU_death_drug-exposure_consent_dates.ipynb -- This file pulls death dates, a list of all participants with drug data, and consent dates for participants.
+* 02_AoU_death_drug_exposure_consent_dates.ipynb -- This file pulls death dates, a list of all participants with drug data, and consent dates for participants.
 * 03_AoU_pull_drugs_and_clean_files.ipynb -- This file pulls and cleans drug data and saves a smaller csv file per each type of drug.
 * 06_AoU_pull_APOE_status_V8.ipynb -- This file pulls the APOE status for each particiant from AoU's WGS data.
 * 06_AoU_pull_icd10.ipynb -- This file pulls the ICD10 codes we use as covariates.
