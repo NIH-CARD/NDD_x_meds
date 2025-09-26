@@ -22,6 +22,7 @@ Files should be run in order -- pulling data first, then prepping/cleaning the f
 
 ## Running regressions
 * 05_UKB_baseline_cox_table1.ipynb
+* 08_UKB_cox_table2_and_table4.ipynb
 
 # AoU
 ## Pulling data
