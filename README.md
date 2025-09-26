@@ -13,6 +13,7 @@ Files should be run in order -- pulling data first, then prepping/cleaning the f
 * 01_UKB_make_case_controls.ipynb -- This notebooks pulls the data need to created case/control cohorts for Alzheimer's disesase, all-cause dementia, and Parkinson's disease.
 * 01_UKB_pull_med_data.ipynb -- This notebook pulls and starts to clean the medication data.
 * 06_UKB_pull_icd10_data.ipynb -- This notebook pulls the ICD10 codes we use as covariates.
+* 06_UKB_pull_APOE_status.ipynb -- This notebook pulls the APOE status for each particiant.
 
 ## Prepping files
 * 02_UKB_add_short_name_to_med_data.ipynb -- This notebook adds a "short name" to medications, allowing us to group medication with different names by their generic ingredients.
