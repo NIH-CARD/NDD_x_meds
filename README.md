@@ -19,6 +19,7 @@ Files should be run in order -- pulling data first, then prepping/cleaning the f
 * 03_UKB_save_meds_as_individual_files.ipynb -- This notebook cleans drug data and saves a smaller csv file per each type of drug.
 * 04_UKB_prep_med_df.ipynb -- This notebook merges the cases/controls, cleans the data, and creates the df used for the baseline cox analysis in table 1.
 * 07_UKB_prep_df_with_icd10_APOE -- This notebook addes additional info, specifically ICD10 codes and APOE status, to create the df to be used for tables 2 and 4.
+* 09_UKB_prep_df_table3.ipynb -- This notebooks adds high, med, low usage groupings to create the df to be used for table 3.
 
 ## Running regressions
 * 05_UKB_baseline_cox_table1.ipynb
