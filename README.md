@@ -46,5 +46,3 @@ Files should be run in order -- pulling data first, then prepping/cleaning the f
 * 05_AoU_baseline_cox_table1.ipynb -- This notebook runs the regressions for table 1, using a previously created df.
 * 08_AoU_cox_table2_and_table4.ipynb -- This notebook runs the regressions for table 2 and table 4.
 * 09_AoU_cox_high_low_table3.ipynb -- This notebook runs the regressions for table 3.
-
-Note -- currently in process of uploading notebooks
