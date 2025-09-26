@@ -22,9 +22,9 @@ Files should be run in order -- pulling data first, then prepping/cleaning the f
 * 09_UKB_prep_df_table3.ipynb -- This notebooks adds high, med, low usage groupings to create the df to be used for table 3.
 
 ## Running regressions
-* 05_UKB_baseline_cox_table1.ipynb
-* 08_UKB_cox_table2_and_table4.ipynb
-* 10_UKB_cox_high_low_table3.ipynb
+* 05_UKB_baseline_cox_table1.ipynb -- This notebook runs the regressions for table 1, using a previously created df.
+* 08_UKB_cox_table2_and_table4.ipynb -- This notebook runs the regressions for table 2 and table 4.
+* 10_UKB_cox_high_low_table3.ipynb -- This notebook runs the regressions for table 3.
 
 # AoU
 ## Pulling data
